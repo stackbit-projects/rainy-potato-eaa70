@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: You can even edit from the side panel.  Super easy.
-    subtitle: Optional hero section subtitle
+    subtitle: ;ljkdf;led;lkd;lkd
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
