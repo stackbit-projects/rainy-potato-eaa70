@@ -13,7 +13,7 @@ sections:
         style: secondary
       - label: Learn More
         url: /features
-        style: secondary
+        style: primary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
