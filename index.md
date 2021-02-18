@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Meet the visual editor.\_ It's really easy to edit your site."
+    title: You can even edit from the side panel.  Super easy.
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
