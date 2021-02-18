@@ -61,7 +61,7 @@
 			<div class="hero__body my-2 cell-12{% if is_horiz and has_media and media_width == 'fourty' %} cell-md-7{% endif %}{% if is_horiz and has_media and media_width == 'fifty' %} cell-md-6{% endif %}{% if is_horiz and has_media and media_width == 'sixty' %} cell-md-5{% endif %}{% if has_media and media_pos == 'right' %} order-md-first{% endif %}{% if has_media and media_pos == 'bottom' %} order-first{% endif %}{% if align_x == 'center' %} text-center{% endif %}{% if align_x == 'right' %} text-right{% endif %}">
 				{% assign title_is_not_empty = section.title | is_not_empty %}
 				{% if title_is_not_empty %}
-				<h1 class="hero__title">{{ section.title }}</h1>
+				<h1 class="hero__title">We can even change this via the code!</h1>
 				{% endif %}
 				{% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
 				{% if subtitle_is_not_empty %}
