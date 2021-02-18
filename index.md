@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Let's change our button style.
         url: /pricing
-        style: primary
+        style: secondary
       - label: Learn More
         url: /features
         style: secondary
