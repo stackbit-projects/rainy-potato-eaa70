@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Let's change our button style.
+      - label: Now let's make a global CSS change
         url: /pricing
         style: secondary
       - label: Learn More
